@@ -6,3 +6,4 @@
 hogehoge commit.
 develop.
 rebased.
+merge test.
